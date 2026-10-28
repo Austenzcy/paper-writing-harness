@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Writing Harness"
+  short_description: "经济学与社会科学论文的撰写、润色、统计审查、格式及真实文献核验"
+  default_prompt: "请使用 $paper-writing-harness，根据我的资料和任务范围撰写、润色或审查论文，保留研究含义并标出待核验项。"
+policy:
+  allow_implicit_invocation: true
